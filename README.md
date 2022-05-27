@@ -7,7 +7,7 @@ I'm on [Twitter](https://twitter.com/sebkaydesign) and [Instagram](https://www.i
 ## Projects
 
 
-### [WP Queued Jobs]([https://github.com/SebKay/arbalest](https://github.com/SebKay/wp-queued-jobs))
+### [WP Queued Jobs](https://github.com/SebKay/wp-queued-jobs)
 
 A Laravel-like queue system for WordPress. Send emails, import large amounts of data and more. All in the background.
 
