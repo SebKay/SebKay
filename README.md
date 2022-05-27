@@ -6,6 +6,11 @@ I'm on [Twitter](https://twitter.com/sebkaydesign) and [Instagram](https://www.i
 
 ## Projects
 
+
+### [WP Queued Jobs]([https://github.com/SebKay/arbalest](https://github.com/SebKay/wp-queued-jobs))
+
+A Laravel-like queue system for WordPress. Send emails, import large amounts of data and more. All in the background.
+
 ### [Touchstone](https://github.com/SebKay/touchstone)
 
 A tool for making the writing of tests in WordPress plugins and themes easier.
@@ -13,11 +18,3 @@ A tool for making the writing of tests in WordPress plugins and themes easier.
 ### [Noticeable](https://github.com/SebKay/noticeable)
 
 A simple way to show a session based flash message.
-
-### [OOP WP](https://github.com/SebKay/oop-wp)
-
-A library of OOP style helper classes for WordPress theme and plugin development.
-
-### [Arbalest](https://github.com/SebKay/arbalest)
-
-A simple all-in-one solution for managing email list subscribers in PHP. Supports Mailchimp, Campaign Monitor, ActiveCampaign, ConvertKit and more.
