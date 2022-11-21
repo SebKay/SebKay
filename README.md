@@ -6,15 +6,16 @@ I'm on [Twitter](https://twitter.com/sebkaydesign) and [Instagram](https://www.i
 
 ## Projects
 
+### [Laravel / Inertia / Vue](https://github.com/SebKay/laravel-inertia-template)
 
-### [WP Queued Jobs](https://github.com/SebKay/wp-queued-jobs)
+A template project. My base for building the next idea.
 
-A Laravel-like queue system for WordPress. Send emails, import large amounts of data and more. All in the background.
 
 ### [Touchstone](https://github.com/SebKay/touchstone)
 
 A tool for making the writing of tests in WordPress plugins and themes easier.
 
-### [Noticeable](https://github.com/SebKay/noticeable)
 
-A simple way to show a session based flash message.
+### [WP Queued Jobs](https://github.com/SebKay/wp-queued-jobs)
+
+A simple Laravel-like queue system for WordPress. Send emails, import large amounts of data and more. All in the background.
