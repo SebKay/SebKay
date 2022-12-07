@@ -6,7 +6,7 @@ I'm on [Twitter](https://twitter.com/sebkaydesign) and [Instagram](https://www.i
 
 ## Projects
 
-### [Laravel / Inertia / Vue Template](https://github.com/SebKay/laravel-inertia-template)
+### [Laravel / Inertia / Vue – Template](https://github.com/SebKay/laravel-inertia-template)
 
 A template project. My base for building the next idea.
 
